@@ -1,0 +1,207 @@
+
+h2{
+    font-family: monospace;
+    font-weight: 500;
+    font-size: x-large;
+}
+
+.title1{
+font-weight: 200;
+font-size: normal;
+
+}
+
+
+.colorsbox{
+    border: 1px solid rgb(0, 0, 0);
+    height: 487px;
+    padding: 30px 0px 10px 5px;
+     margin: 10px
+
+
+}
+
+.h21{
+
+    font-size: medium;
+    padding: 30px 0px 10px 5px;
+
+}
+
+.bluebox {
+    
+    color: white;
+    background-color: #2d5dcc;
+    display: inline-block;
+    height: 100px;
+    width: 450px;
+    padding: 5px 5px 10px 10px;
+    margin: 10px;
+
+}
+
+.pinkbox {
+
+    color: pink;
+    background-color: #d957d9;
+    display: inline-block;
+    height: 100px;
+    width: 450px;
+    padding: 5px 5px 10px 10px;
+    margin: 10px;
+
+}
+
+
+.mintgreen {
+    color: black;
+    display: inline-block;
+    background-color: #4fe0b0;
+    height: 100px;
+    width: 450px;
+    padding: 5px 5px 10px 5px;
+    margin: 10px;
+}
+
+.biegebox {
+    color: black;
+    display: inline-block;
+    background-color: #efd9ca;
+    height: 100px;
+    width: 450px;
+    padding: 5px 5px 10px 5px;
+    margin: 10px;
+}
+
+.fontbox{
+
+    border: 1px solid rgb(0, 0, 0);
+    height: 550px;
+    padding: 30px 0px 10px 5px;
+    margin: 10px;
+
+
+
+}
+
+
+.textbox {
+
+    border: 1px solid rgb(0, 0, 0);
+    height: 485px;
+    padding: 30px 0px 10px 5px;
+    margin: 10px;
+
+
+}
+
+.sourcecodepro{
+
+    font-style: underline;
+    font-family: 'monospace' 'Courier New', Courier ;
+
+}
+
+.p1 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.p11 {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.p111 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.nunitosansbox   {
+
+  float: left;
+  margin: center;
+  width: 20%;
+ 
+  padding: 10px;
+  
+
+}
+
+.p11 {
+    font-weight: 600;
+}
+
+.p11n {
+    font-weight: 600;
+}
+
+.p11p {
+    font-weight: 600;
+}
+
+.poppins {
+
+    margin: 30px;
+    font-style: underline;
+    font-family: 'monospace' 'Courier New', Courier ;
+}
+
+
+
+
+
+
+.h1Main {
+
+    font-family: serif;
+    font-weight: 700;
+    font-size: xx-large;
+
+
+}
+
+.list1 {
+
+    font-family: serif;
+    font-size: large;
+
+}
+
+
+.h2sub {
+
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+.list2 {
+
+    font-family: serif;
+    font-size: large;
+}
+
+
+
+.h3sub {
+ font-weight: 400;
+ font-size: 14px;
+ font-family: serif;
+}
+
+
+.list3 {
+    font-family: serif;
+    font-size: large;
+    
+}
+
+
+
+
