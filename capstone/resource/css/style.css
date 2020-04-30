@@ -3,7 +3,8 @@
 body {
     background-color: #ffffff;
     color: #000000;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', serif;
+    
 }
 
 
@@ -12,13 +13,72 @@ body {
 .container1 {
     background-color:#ffffff;
     display: flex;
-    flex-flow: row;
-    flex-basis: content;
+    border: 1px solid grey;
+    height: 64px;
+    
 
 }
 
 .logo {
-    object-position: left;
+    margin-left: 24px;
     
 }
+
+.colmar {
+    font-family: monospace;
+    font-weight: 500;
+    font-size: 24px;
+    margin-left: 5px;
+    height: 32px;
+}
+
+.academy {
+    font-family: monospace;
+    font-size: 24px;
+    font-weight: 300;
+    color: grey;
+    height: 32px;
+
+}
+
+
+.marginitright {
+    margin-left: 1170px;
+    
+
+}
+
+.oncampus {
+    text-align: right;
+    font-family: sans-serif;
+    
+}
+
+.solid1 {
+    background-color: lightblue;
+    border: 6px solid lightblue;
+    height: 45px;
+    padding: 0px; 
+    margin: 5px 5px;
+    width: 16px;
+}
+
+.online {
+    font-family: sans-serif;
+
+}
+
+.orcompany {
+    font-family: sans-serif;
+
+}
+
+.signin {
+    font-family: sans-serif;
+    margin-right: 24px;
+
+}
+
+
+
 
