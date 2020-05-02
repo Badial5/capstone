@@ -4,12 +4,13 @@ body {
     background-color: #ffffff;
     color: #000000;
     font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', serif;
-    
+    max-width: 100%;
+    max-height: 100%;
 }
 
 
 
-/* header Container 1 */
+/* header Container 1 -- Styling the HEADER   */
 .container1 {
     background-color:#ffffff;
     display: flex;
@@ -65,6 +66,7 @@ body {
 
 .online {
     font-family: sans-serif;
+    font-size: 16px;
 
 }
 
@@ -81,4 +83,142 @@ body {
 
 
 
+/* div -- Container1 */
 
+.div--container1{
+    background-color:lightgrey;
+    display: flex;
+    
+}
+
+.banner1 {
+
+    margin: 32px 24px;
+    width: 60%;
+}
+
+
+/* DIV -- CONTAINER 1 */
+
+.div--container1 {
+    color: grey;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.container1--h1 {
+    font-size: 70px;
+    margin-left: 24px;
+    margin-top: 300px;z
+}
+
+
+.container1--h3 {
+    color: grey;
+    margin-top: -400px;
+    margin-left: 65%;
+    margin-bottom: 100px;
+    font-size: 30px;
+
+}
+
+.container1--h2 {
+    background-color: grey;
+    color: white;
+    font-weight: 600px;
+    text-align: center;
+    text-justify: center;
+    margin-top: -300px;
+    margin-left: 65%;
+    margin-bottom: 100px;
+    height: 60px;
+    width: 400px;
+}
+
+
+/* This is container 2 editing */
+
+.div--container2 {
+    display: flex;
+    
+
+}
+
+
+.banner2 {
+
+    margin: 32px 24px;
+    width: 98.5%;
+    height: 50%;
+
+    
+}
+
+.div--containerbox1 {
+    margin-top: 32px;
+    margin-left: 24px;
+    width: 60%;
+}
+
+.div--containerboxinside {
+    margin-left: 96px;
+    
+}
+
+
+.img1 {
+    margin-top: 32px;
+    width: 65%;
+    
+}
+
+.smallimg1 {
+    width: auto;
+    height: auto;
+
+}
+
+
+.container2--h1 {
+    word-wrap: break-word;
+    margin-left: 120px
+}
+
+.h3, .para{
+    
+    color:black;
+    margin-left: 24px;
+    font-weight: normal;
+
+}
+
+.img1 {
+background-color: lightsteelblue;
+width: 130%;
+margin: 24px;
+
+    
+}
+
+.img2 {
+    background-color: lightsteelblue;
+    width: 130%;
+    margin: 5px;
+        
+    }
+
+.img3 {
+    background-color: lightgrey;
+    width: 130%;
+    margin: 5px;
+}
+
+.img1inside, .img2inside, .img3inside {
+    margin-left: 16px;
+    margin-top: 16px;
+}
+
+h2, p, a {
+    
+}
